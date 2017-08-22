@@ -1,0 +1,17 @@
+#container{
+    margin: 0 auto;
+    width: 45%;
+}
+
+#header{
+    text-align: center;
+    width: 50%;
+    font-size: 2em;
+    margin: 0 auto;
+    color: white;
+
+}
+
+body{
+    background-image: url('images/bg.jpg');
+}
